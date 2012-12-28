@@ -1,0 +1,11 @@
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\bin\Debug\Skype Attack Improved.exe.config
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype Attack Improved.csprojResolveAssemblyReference.cache
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype Attack Improved.csproj.ResolveComReference.cache
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype_Attack_Improved.Form1.resources
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype_Attack_Improved.Properties.Resources.resources
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype Attack Improved.csproj.GenerateResource.Cache
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\bin\Debug\Skype Attack Improved.exe
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\bin\Debug\Skype Attack Improved.pdb
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype Attack Improved.exe
+C:\Users\Jacob Goldberg\Documents\Visual Studio 2012\Projects\Skype Attack Improved\Skype Attack Improved\obj\Debug\Skype Attack Improved.pdb
